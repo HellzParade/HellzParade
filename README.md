@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @HellzParade
-- 👀 I’m interested in coding and gaming 
-- 🌱 I’m currently learning java  
-- 💞️ I’m looking to collaborate on information exchange
+- 👀 I’m interested in developing and gaming 
+- 🌱 I’m currently learning Deep learning
+- I am currently exploring the AI Domain and its potential
 - 📫 How to reach me contact contactsarthaksingh@gmail.com
 
 <!---
